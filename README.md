@@ -1,3 +1,4 @@
+![logo](<img width="1857" height="980" alt="image" src="https://github.com/user-attachments/assets/cf8f61d2-bb2a-430c-be2f-a2a5b1138f58" />)
 <h1 align="center">Hi 👋, I'm Randeep Singh</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
